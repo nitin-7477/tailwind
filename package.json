@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "boxicons": "^2.1.4",
+    "vite": "^5.4.10"
+  },
+  "name": "tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14"
+  },
+  "scripts": {
+ "start": "vite"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitin-7477/tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitin-7477/tailwind/issues"
+  },
+  "homepage": "https://github.com/nitin-7477/tailwind#readme",
+  "description": ""
+}
